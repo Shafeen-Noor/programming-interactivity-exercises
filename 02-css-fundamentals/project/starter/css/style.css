@@ -20,7 +20,6 @@
 /* ---------- Variables & type (Exercise 5a) ------------------------------
    Uncomment, then replace every … with your own decision.                 */
 
-/*
 button, input, select { font: inherit; }
 
 :root {
@@ -36,7 +35,6 @@ body {
 h1 { font-size: …rem; }
 h2 { font-size: …rem; }
 p  { max-width: …ch; }
-*/
 
 
 /* ---------- Page ---------------------------------------------------------- */
@@ -53,4 +51,4 @@ p  { max-width: …ch; }
    fits as many columns as there is room for. Uncomment it whenever you like.
    Next week you'll know exactly why it works.                               */
 
-/* .vendor-list { display: grid; grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr)); gap: 1rem; list-style: none; padding: 0; } */
+ .vendor-list { display: grid; grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr)); gap: 1rem; list-style: none; padding: 0; }

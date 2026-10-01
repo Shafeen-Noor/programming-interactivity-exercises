@@ -35,5 +35,6 @@ and steal techniques. `cheatsheet.html` prints on one A4 page.
 ## Homework
 
 - Finish your market and tick the makeover checklist.
-- Publish it on GitHub Pages and send the link.
+- Submit on Google Classroom by the end of the week: a zip of your `starter/`
+  folder, or a link to your repo.
 - Selector Arena levels 7–15, Exercise 4 rounds 4–6.
